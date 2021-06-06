@@ -1,5 +1,5 @@
 # DDK_flappy_dora
-* It is an Java game inspired by the game of flappy bird.
+* It is an Android game inspired by the game of flappy bird.
 * I made this game by myself step by step with no teacher.
 * So I got the highest score in this class when I was studying at University.
 <br><br/>
@@ -14,10 +14,11 @@
 
 ## Languages
 * Java
+* Android
 <br><br/>
 
 ## Techniques
-  - Java fundamentals
+  - Java and Android fundamentals
   - Thinking before developing, and do not see original code.
 <br><br/>
 
